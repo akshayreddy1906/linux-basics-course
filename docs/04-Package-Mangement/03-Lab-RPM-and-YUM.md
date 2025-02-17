@@ -31,5 +31,5 @@ To check which package provides **`tcpdump`**  command
 ```
 $ sudo yum provides tcpdump
 ```
-
-
+yum provides helps you identify which package contains a specific file or command
+tcpdump allows you to see the data being sent and received in real-time.
